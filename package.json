@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^4.9.1",
     "@typescript-eslint/parser": "^4.9.1",
     "diff": "^5.0.0",
-    "eslint": "^7.15.0",
+    "eslint": "^9.0.0",
     "glob": "^7.1.6",
     "physical-cpu-count": "^2.0.0",
     "source-map-support": "^0.5.19",
