@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/webassembly-js-api": "0.0.1",
     "assemblyscript": "AssemblyScript/assemblyscript",
-    "ts-loader": "^5.2.1",
+    "ts-loader": "^6.0.0",
     "ts-node": "^6.2.0",
     "typescript": "^3.1.2",
     "webpack": "^4.20.2",
